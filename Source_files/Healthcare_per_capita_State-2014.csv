@@ -1,0 +1,65 @@
+,State,Health Spending per Capita
+0,United States,$8045
+1,Alabama,$7281
+2,Alaska,$11064
+3,Arizona,$6452
+4,Arkansas,$7408
+5,California,$7549
+6,Colorado,$6804
+7,Connecticut,$9859
+8,Delaware,$10254
+9,District of Columbia,$11944
+10,Florida,$8076
+11,Georgia,$6587
+12,Hawaii,$7299
+13,Idaho,$6927
+14,Illinois,$8262
+15,Indiana,$8300
+16,Iowa,$8200
+17,Kansas,$7651
+18,Kentucky,$8004
+19,Louisiana,$7815
+20,Maine,$9531
+21,Maryland,$8602
+22,Massachusetts,$10559
+23,Michigan,$8055
+24,Minnesota,$8871
+25,Mississippi,$7646
+26,Missouri,$8107
+27,Montana,$8221
+28,Nebraska,$8412
+29,Nevada,$6714
+30,New Hampshire,$9589
+31,New Jersey,$8859
+32,New Mexico,$7214
+33,New York,$9778
+34,North Carolina,$7264
+35,North Dakota,$9851
+36,Ohio,$8712
+37,Oklahoma,$7627
+38,Oregon,$8044
+39,Pennsylvania,$9258
+40,Rhode Island,$9551
+41,South Carolina,$7311
+42,South Dakota,$8933
+43,Tennessee,$7372
+44,Texas,$6998
+45,Utah,$5982
+46,Vermont,$10190
+47,Virginia,$7556
+48,Washington,$7913
+49,West Virginia,$9462
+50,Wisconsin,$8702
+51,Wyoming,$8320
+52,Notes,
+53,"The Centers for Medicare and Medicaid Services (CMS) Office of the Actuary produces Health Expenditures by State of Residence and Health Expenditures by State of Provider every five years. The State Health Expenditure Accounts are a subcomponent of the National Health Expenditure Accounts (NHEA), the official government estimates of health spending in the United States.  ",
+54,,
+55,Additional information on data and methods is available [here.](http://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html)  ,
+56,,
+57,"For additional analysis of these data, please see Health Affairs article, [""Health Spending by State, 1991-2014: Measuring Per Capita Spending by Payer and Programs""](http://content.healthaffairs.org/content/early/2017/06/13/hlthaff.2017.0416).",
+58,Sources,
+59,"Centers for Medicare & Medicaid Services, Office of the Actuary, National Health Statistics Group. [National Health Expenditure Data: Health Expenditures by State of Residence](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence.html), June 2017.",
+60,,
+61,"U.S. Population by State, 1991-2014 obtained from the U.S. Bureau of the Census, June 2017.",
+62,Definitions,
+63,"*Health Spending Per Capita* includes spending for all privately and publicly funded personal health care services and products (hospital care, physician services, nursing home care, prescription drugs, etc.) by state of residence (aggregate spending divided by population). Hospital spending is included and reflects the total net revenue (gross charges less contractual adjustments, bad debts, and charity care). Costs such as insurance program administration, research, and construction expenses are not included in this total.",
