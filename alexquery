@@ -1,0 +1,28 @@
+select * from vax;
+
+select * from ryan;
+
+CREATE TABLE alex AS
+SELECT vax."State"
+	, vax."partial_vaccinations"
+	, vax."people_fully_vaccinated"
+	, vax."percent_doses_used"
+	, ryan."Tested"
+	, ryan."Infected"
+	, ryan."Deaths"
+	, "ICU Beds"
+	, "Age 0-25"
+	, "Age 26-54"
+	, "Age 55+"
+	, "Obesity Rate"
+	, "Population"
+	, "Health Expen"
+FROM vax
+INNER JOIN ryan 
+ON ryan."State"=vax."State";
+
+select * from alex;
+
+drop table alex;
+
+COPY alex TO 'D:\Users\alex\Documents\GitHub\Project-2\alex.csv' DELIMITER ',' CSV HEADER;
